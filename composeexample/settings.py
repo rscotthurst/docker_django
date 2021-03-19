@@ -25,7 +25,7 @@ SECRET_KEY = 'qyr%zz509im@8(lp#nh1a@e^b=-99ia79%vxu)ad6^w5dnt_(4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['docker-django-rocket-launch.onrender.com']
 
 
 # Application definition
